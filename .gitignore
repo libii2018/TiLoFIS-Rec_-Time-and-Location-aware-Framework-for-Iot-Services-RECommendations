@@ -1,0 +1,7 @@
+dataset/dataset1/*.txt
+dataset/dataset2/*.txt
+
+# experiment_results/*.json
+# matrice_similarite/*.json
+
+/TILOFIS_REC
